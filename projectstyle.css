@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container-title {
+    text-align: center;
+    font-size: 500%;
+}
+
+.title {
+    color:crimson
+    
+}
